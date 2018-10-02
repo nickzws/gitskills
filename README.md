@@ -4,4 +4,4 @@ Creating a new branch is quick.
 
 sd
 
-s
+s is free
